@@ -1,0 +1,14 @@
+.\Obj\main.o: main.c
+.\Obj\main.o: config.h
+.\Obj\main.o: LPC23xx.H
+.\Obj\main.o: target.h
+.\Obj\main.o: type.h
+.\Obj\main.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\main.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\main.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\main.o: d:\Keil\ARM\RV31\INC\stdio.h
+.\Obj\main.o: d:\Keil\ARM\RV31\INC\stdarg.h
+.\Obj\main.o: adc.h
+.\Obj\main.o: CH376INC.H
+.\Obj\main.o: file_sys.h
+.\Obj\main.o: HAL.H

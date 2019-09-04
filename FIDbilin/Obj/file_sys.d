@@ -1,0 +1,12 @@
+.\Obj\file_sys.o: FILE_SYS.C
+.\Obj\file_sys.o: FILE_SYS.H
+.\Obj\file_sys.o: HAL.H
+.\Obj\file_sys.o: CH376INC.H
+.\Obj\file_sys.o: config.h
+.\Obj\file_sys.o: LPC23xx.H
+.\Obj\file_sys.o: target.h
+.\Obj\file_sys.o: type.h
+.\Obj\file_sys.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\file_sys.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\file_sys.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\file_sys.o: d:\Keil\ARM\RV31\INC\stdio.h

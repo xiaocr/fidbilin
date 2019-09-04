@@ -1,0 +1,4 @@
+"lpc2300.o" "target.o" "usbcore.o" "usbdesc.o" "usbhw.o" "usbuser.o" "all.o" "at45db642.o" "iic0.o" "mathoperat.o" "rfcard.o" "irq.o" "taskanalys.o" "main.o" "iap.o" "lcd1.o" "pagedsp1.o" --device DARMP --strict --scatter "Memory.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Memory.map" -o "Memory.axf"

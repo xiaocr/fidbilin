@@ -1,0 +1,9 @@
+.\Obj\mathoperat.o: mathOperat.c
+.\Obj\mathoperat.o: config.h
+.\Obj\mathoperat.o: LPC23xx.H
+.\Obj\mathoperat.o: target.h
+.\Obj\mathoperat.o: type.h
+.\Obj\mathoperat.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\mathoperat.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\mathoperat.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\mathoperat.o: d:\Keil\ARM\RV31\INC\stdio.h

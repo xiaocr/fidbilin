@@ -1,0 +1,1 @@
+-c --device DARMP -g -W -O0 --apcs=interwork -IE:\2368main -IE:\2368main -I "d:\Keil\ARM\INC\Philips" -o ".\Obj\keyprocess.o" --depend ".\Obj\keyprocess.d" "keyProcess.c"

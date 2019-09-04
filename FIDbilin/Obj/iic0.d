@@ -1,0 +1,9 @@
+.\Obj\iic0.o: iic0.c
+.\Obj\iic0.o: config.h
+.\Obj\iic0.o: LPC23xx.H
+.\Obj\iic0.o: target.h
+.\Obj\iic0.o: type.h
+.\Obj\iic0.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\iic0.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\iic0.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\iic0.o: d:\Keil\ARM\RV31\INC\stdio.h

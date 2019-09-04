@@ -1,0 +1,9 @@
+.\Obj\keyprocess.o: keyProcess.c
+.\Obj\keyprocess.o: config.h
+.\Obj\keyprocess.o: LPC23xx.H
+.\Obj\keyprocess.o: target.h
+.\Obj\keyprocess.o: type.h
+.\Obj\keyprocess.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\keyprocess.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\keyprocess.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\keyprocess.o: d:\Keil\ARM\RV31\INC\stdio.h

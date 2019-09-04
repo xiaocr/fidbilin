@@ -1,0 +1,9 @@
+.\Obj\comprocess.o: comProcess.c
+.\Obj\comprocess.o: config.h
+.\Obj\comprocess.o: LPC23xx.H
+.\Obj\comprocess.o: target.h
+.\Obj\comprocess.o: type.h
+.\Obj\comprocess.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\comprocess.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\comprocess.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\comprocess.o: d:\Keil\ARM\RV31\INC\stdio.h

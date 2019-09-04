@@ -1,0 +1,10 @@
+.\Obj\adc.o: adc.c
+.\Obj\adc.o: LPC23xx.h
+.\Obj\adc.o: type.h
+.\Obj\adc.o: config.h
+.\Obj\adc.o: target.h
+.\Obj\adc.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\adc.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\adc.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\adc.o: d:\Keil\ARM\RV31\INC\stdio.h
+.\Obj\adc.o: adc.h

@@ -1,0 +1,35 @@
+*** Creating Trace Output File 'Memory.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lpc2300.o"'
+### List of Objects: adding '"target.o"'
+### List of Objects: adding '"usbcore.o"'
+### List of Objects: adding '"usbdesc.o"'
+### List of Objects: adding '"usbhw.o"'
+### List of Objects: adding '"usbuser.o"'
+### List of Objects: adding '"all.o"'
+### List of Objects: adding '"at45db642.o"'
+### List of Objects: adding '"iic0.o"'
+### List of Objects: adding '"mathoperat.o"'
+### List of Objects: adding '"rfcard.o"'
+### List of Objects: adding '"irq.o"'
+### List of Objects: adding '"taskanalys.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"iap.o"'
+### List of Objects: adding '"lcd1.o"'
+### List of Objects: adding '"pagedsp1.o"'
+### ADS-LD Command completed:
+"lpc2300.o" "target.o" "usbcore.o" "usbdesc.o" "usbhw.o" "usbuser.o" "all.o" "at45db642.o" "iic0.o" "mathoperat.o" "rfcard.o" "irq.o" "taskanalys.o" "main.o" "iap.o" "lcd1.o" "pagedsp1.o" --device DARMP --strict --scatter "Memory.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Memory.map" -o "Memory.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Memory.axf'
+### ADS-LD Command File: 'Memory.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Memory.lnp', Handle=0x000002B8
+### Writing '.lnp' file
+### ADS-LD Command file 'Memory.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

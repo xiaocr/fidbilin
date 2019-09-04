@@ -1,0 +1,10 @@
+.\Obj\pwm.o: pwm.c
+.\Obj\pwm.o: config.h
+.\Obj\pwm.o: LPC23xx.H
+.\Obj\pwm.o: target.h
+.\Obj\pwm.o: type.h
+.\Obj\pwm.o: d:\Keil\ARM\RV31\INC\math.h
+.\Obj\pwm.o: d:\Keil\ARM\RV31\INC\string.h
+.\Obj\pwm.o: d:\Keil\ARM\RV31\INC\stdlib.h
+.\Obj\pwm.o: d:\Keil\ARM\RV31\INC\stdio.h
+.\Obj\pwm.o: pwm.h

@@ -1,0 +1,4 @@
+".\obj\lpc2300.o" ".\obj\target.o" ".\obj\irq.o" ".\obj\main.o" ".\obj\iic0.o" ".\obj\mathoperat.o" ".\obj\comprocess.o" ".\obj\keyprocess.o" ".\obj\file_sys.o" ".\obj\hal_base.o" --device DARMP --strict --scatter ".\Obj\Memory.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Memory.map" -o ".\Obj\Memory.axf"
